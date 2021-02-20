@@ -22,8 +22,7 @@ https://play.google.com/store/apps/details?id=free.vpn.proxy.skynetvpn
 
 下载及安装说明
 -------------------
-Android (SkyNet VPN - Best & Secure for Android):
-安卓 1.2.0 版本：</br>
+Android 1.2.0 版本 (SkyNet VPN - Best & Secure for Android):</br>
 https://github.com/SkyNetVPNStudio/SkyNet/releases/download/android.v1.2.0/skynet_1.2.0.apk
 
 或点击此链接进入到 Google Play 下载：</br>
